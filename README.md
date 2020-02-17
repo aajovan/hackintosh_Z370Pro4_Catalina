@@ -8,7 +8,7 @@
 * VDA Decoder fully supported(enabled iGPU)
 * Dual monitor working with Freesync support
 * Sound working(ALC892)
-* Sleep wroking
+* Sleep working
 * Dual boot support (Windows Bootcamp)
 * No errors
 
