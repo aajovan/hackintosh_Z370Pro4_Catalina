@@ -12,3 +12,11 @@
 * Dual boot support (Windows Bootcamp)
 * No errors
 
+## Hardware:
+
+* Asrock Z370 Pro4
+* i5 8400
+* RX 480 8GB
+* 16 GB DDR4 3200Mhz
+
+
