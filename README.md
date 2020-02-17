@@ -3,7 +3,7 @@
  <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/Catalina/macos-catalina-upgrade-hero.jpg"/>
 </div>
 
-## Fully working:
+## Working:
 
 * VDA Decoder fully supported(enabled iGPU)
 * Dual monitor working with Freesync support
